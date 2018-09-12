@@ -1,0 +1,40 @@
+
+Copyright (c) 2006-2012, Elgris Technologies, Inc.
+Copyright (c) 1998-2005, Electronic Tools Company
+
+EDIF 2 0 0 to OrCAD Capture Schematic Conversion Program SPB 16.60_1.090 built Aug 29 2012
+
+Started on Mon Sep 10 12:21:47 2018
+
+Reading config file ds
+Warning: Error on openning file ds
+
+Processing EDIF 2 0 0  file C:\ninja\Project\ControlNode_HardWare\Project\cadance\SSTM32_BUS_0910.EDF
+
+This is an OrCAD EDIF file.
+.............................................................
+..............................................................
+
+EDIF 200 parsing finished
+
+
+Library C:\NINJA\PROJECT\CONTROLNODE_HARDWARE\PROJECT\CADANCE\ALL_ORCAD2#0.OLB is created
+Library C:\NINJA\PROJECT\CONTROLNODE_HARDWARE\PROJECT\CADANCE\DISCRETE#1.OLB is created
+Library C:\NINJA\PROJECT\CONTROLNODE_HARDWARE\PROJECT\CADANCE\SSTM32_BUS#1.OLB is created
+Library C:\NINJA\PROJECT\CONTROLNODE_HARDWARE\PROJECT\CADANCE\CONNECTOR#2.OLB is created
+Library C:\NINJA\PROJECT\CONTROLNODE_HARDWARE\PROJECT\CADANCE\DISCRETE#2.OLB is created
+Library C:\NINJA\PROJECT\CONTROLNODE_HARDWARE\PROJECT\CADANCE\CONNECTOR#3.OLB is created
+Library C:\NINJA\PROJECT\CONTROLNODE_HARDWARE\PROJECT\CADANCE\CLOCK#0.OLB is created
+Library C:\NINJA\PROJECT\CONTROLNODE_HARDWARE\PROJECT\CADANCE\CONNECTOR#4.OLB is created
+Library C:\NINJA\PROJECT\CONTROLNODE_HARDWARE\PROJECT\CADANCE\MASTER_V3#0.OLB is created
+Library C:\NINJA\PROJECT\CONTROLNODE_HARDWARE\PROJECT\CADANCE\SUS_STM32#0.OLB is created
+Library C:\NINJA\PROJECT\CONTROLNODE_HARDWARE\PROJECT\CADANCE\SSTM32_BUS#2.OLB is created
+Library C:\NINJA\PROJECT\CONTROLNODE_HARDWARE\PROJECT\CADANCE\SSTM32_BUS_0910#0.OLB is created
+Error: Cannot create Design C:\ninja\Project\ControlNode_HardWare\Project\cadance\SSTM32_BUS_0910.dsn
+Fatal Error:  in OrCAD Writer:  Cannot create Design C:\ninja\Project\ControlNode_HardWare\Project\cadance\SSTM32_BUS_0910.dsn
+
+
+Finished on Mon Sep 10 12:21:47 2018
+
+
+Fatal error detected
